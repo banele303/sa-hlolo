@@ -416,7 +416,7 @@ function Footer() {
 
 export default function App() {
   return (
-    <div className="font-['Inter']">
+    <div className="font-sans">
       <Navbar />
       <Hero />
       <About />
